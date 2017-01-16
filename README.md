@@ -26,7 +26,7 @@ The challenge for this video is to use scikit-learn to create a line of best fit
 
 ##Output Plot
 
-![plot](https://github.com/asutosh97/)
+![plot](https://github.com/asutosh97/linear_regression/blob/master/figure_1.png)
 
 ##Credits
 
